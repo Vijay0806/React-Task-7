@@ -1,0 +1,1 @@
+export const API="https://movie-app-db.onrender.com";

@@ -1,0 +1,9 @@
+.logout__btn{
+    margin-left: auto;
+    margin-top: 7px;
+    /* background-color:purple; */
+    background-color:#212529;
+
+    border: none;
+    color: #fff;
+}
